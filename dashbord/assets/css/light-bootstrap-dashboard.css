@@ -5491,3 +5491,28 @@ License - nucleoapp.com/license/
 }
 
 /* all icon font classes list here */
+
+.member-info {
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 23px;
+    margin-bottom: 20px;
+}
+
+.member-img {
+    margin-top: 20px;
+}
+
+.member {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+    width: 30%;
+}
+
+.members {
+    display: flex;
+    justify-content: center;
+}
