@@ -92,8 +92,7 @@ a {
   /* width: 90%; */
 }
 
-.input-part {
-}
+.input-part {}
 
 .input-icon {
   margin: 0 30px;
@@ -143,4 +142,8 @@ a {
 
 .clickable {
   cursor: pointer;
+}
+
+.gp-icon {
+  margin: 0 23px;
 }
