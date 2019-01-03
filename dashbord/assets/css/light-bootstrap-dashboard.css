@@ -16,6 +16,10 @@
 
 /*      light colors         */
 
+.farsi-text {
+    text-align: right;
+}
+
 input:read-only {
     cursor: text !important;
 }
@@ -5501,6 +5505,11 @@ License - nucleoapp.com/license/
 
 .member-img {
     margin-top: 20px;
+    text-align: center;
+}
+
+.member-img img {
+    box-shadow: 0px 0px 20px 2px black;
 }
 
 .member {
